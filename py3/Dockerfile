@@ -1,2 +1,2 @@
-FROM cdrx/pyinstaller-windows:python3
+FROM batonogov/pyinstaller-windows:python-3.11
 ENTRYPOINT []
